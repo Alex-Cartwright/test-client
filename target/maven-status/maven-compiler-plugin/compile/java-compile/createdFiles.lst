@@ -1,0 +1,4 @@
+com\aibuild\testclient\ClientExample.class
+com\aibuild\testclient\SubscriptionExample.class
+com\aibuild\testclient\KeyStoreLoader.class
+com\aibuild\testclient\ClientExampleRunner.class
